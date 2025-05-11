@@ -12,7 +12,6 @@ The **Toddle Planning Module** is a centralized, user-friendly platform designed
 - 📚 **Resource Management**: Organize worksheets, assignments, rubrics, and videos in one place  
 - 📊 **Student Tracking**: Monitor performance, grades, and feedback seamlessly  
 - 🌐 **Curriculum Support**: Aligned with IB, U.S. Common Core, and U.K. National Curriculum  
-- 👨‍👩‍👧‍👦 **Stakeholder Communication**: Parents and students can access lesson plans and updates  
 
 ---
 
