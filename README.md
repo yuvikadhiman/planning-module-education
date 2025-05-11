@@ -24,6 +24,14 @@ The **Toddle Planning Module** is a centralized, user-friendly platform designed
 
 ---
 
+## 🖼️ Screenshots
+
+### 📌 Unit Planning Interface
+![Unit Planning Screenshot](<img width="1491" alt="Screenshot 2025-05-11 at 5 53 39 PM" src="https://github.com/user-attachments/assets/c107d720-6f78-42d3-9a70-96190e9fbb5a" />
+)
+
+---
+
 ## 🚧 Status
 
 This project is under active development. Contributions and feedback are welcome!
