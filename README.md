@@ -26,6 +26,21 @@ The **Planning System for Educators** is a centralized, user-friendly platform d
 
 ## 🖼️ Screenshots
 
-### 📌 Planning System for Educators
-[Planning System for Educators Screenshot](https://drive.google.com/drive/folders/1Kc3ChiL6yObPvgbyAzGLwRLvQgGYEEJI?usp=drive_link)
+### Course Structure Teacher Account Navigation Flow
+![Course Structure Teacher Navigation Flow](./images/Course_structure_teacher_account_navigation_flow.png)
+
+### Interactive Curriculum Course Builder
+![Interactive Curriculum Course Builder](./images/Interactive_curriculum_course_builder.png)
+
+### Single Page Unit Planner
+![Single Page Unit Planner](./images/Single_page_unit_planner.png)
+
+### Unit Planning - Card View
+![Unit Planning Card View](./images/Unitplanning_cardview.png)
+
+### Unit Planning - Timeline View
+![Unit Planning Timeline View](./images/Unitplanning_timeline_view.png)
+
+### Contribution Graph
+![Contribution Process](./images/Contribution.png)
 
