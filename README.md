@@ -27,5 +27,5 @@ The **Planning System for Educators** is a centralized, user-friendly platform d
 ## 🖼️ Screenshots
 
 ### 📌 Planning System for Educators
-![Planning System for Educators Screenshot](https://drive.google.com/drive/folders/1Kc3ChiL6yObPvgbyAzGLwRLvQgGYEEJI?usp=drive_link)
+[Planning System for Educators Screenshot](https://drive.google.com/drive/folders/1Kc3ChiL6yObPvgbyAzGLwRLvQgGYEEJI?usp=drive_link)
 
